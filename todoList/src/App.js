@@ -1,8 +1,12 @@
 import './App.css';
+import BackgroundComponent from'./Component/BackgroundComponent'
 
 function App() {
+
   return (
-    <div>Hello World!</div>
+    <div>
+      <BackgroundComponent></BackgroundComponent>
+    </div>
   );
 }
 
