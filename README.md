@@ -1,3 +1,3 @@
-# React-if
+# React-antiel
 
-https://harsisis.github.io/React-if/
+https://harsisis.github.io/React-antiel/
