@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-antiel/static/css/main.82bf1c45.css",
+    "main.js": "/React-antiel/static/js/main.3316693f.js",
+    "static/js/787.f62aafaa.chunk.js": "/React-antiel/static/js/787.f62aafaa.chunk.js",
+    "index.html": "/React-antiel/index.html",
+    "main.82bf1c45.css.map": "/React-antiel/static/css/main.82bf1c45.css.map",
+    "main.3316693f.js.map": "/React-antiel/static/js/main.3316693f.js.map",
+    "787.f62aafaa.chunk.js.map": "/React-antiel/static/js/787.f62aafaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bf1c45.css",
+    "static/js/main.3316693f.js"
+  ]
+}
